@@ -2,15 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "contents": "",
-      "img": ""
+      "title": "The Father",
+      "contents": "aaaaaa aaaaaa",
+      "img": "https://freewebsitetemplates.com/preview/mustacheenthusiast/images/the-father.jpg"
     },
     {
       "id": 2,
-      "title": "goodbye",
-      "contents": "",
-      "img": ""
+      "title": "The Actor",
+      "contents": "bbbbbbb bbbbbbbbbbbbbb",
+      "img": "https://freewebsitetemplates.com/preview/mustacheenthusiast/images/the-actor.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Nerd",
+      "contents": "cccccccccccccccc cccccccccccccccccccccc",
+      "img": "https://freewebsitetemplates.com/preview/mustacheenthusiast/images/the-nerd.jpg"
     }
   ],
   "profile": {
