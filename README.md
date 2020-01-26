@@ -9,7 +9,7 @@ How I created this fake Rest Server,
 
 More about it in https://jsonplaceholder.typicode.com/guide.html
 
-Use it for _GET_ operations. _PUT_, _POST_ and _DELETE_ are not persistent. 
+Recommended to be used only with _GET_ operations, as _PUT_, _POST_ and _DELETE_ are not persistent. 
 
 --
 
