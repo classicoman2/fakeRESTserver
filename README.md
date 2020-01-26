@@ -1,6 +1,16 @@
 # fakeRESTserver
-És un fake rest server online emprant [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)
 
-Deixa fer tot tipus d'operacions REST, com les indicades en:  https://jsonplaceholder.typicode.com/guide.html
+This is a fake rest server that is accessible here: http://my-json-server.typicode.com/classicoman2/fakeRESTserver
 
-El que passa és que encara que te deixi fer les cridades, les dades no són persistents i per tant si per ex., creo un registre amb POST o modifico un registre amb PUT, si a la següent cridada consulto el registre amb un GET no podré accedir als canvis (vaja, que no serveix per a res).
+How I created this fake Rest Server,
+
+1 - Creating the file `db.json` in this repository
+2 - Get instantly a fake server accessing the url `"my-json-server.typicode.com/" + myusename + myreponame`
+
+More about it in https://jsonplaceholder.typicode.com/guide.html
+
+Use it for _GET_ operations. _PUT_, _POST_ and _DELETE_ are not persistent. 
+
+--
+
+T.Amengual - 2020
