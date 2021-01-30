@@ -101,8 +101,8 @@
     }
   ],
   "posts": [
-    {"id":1, "title", "Fa bon dia", "contents": "Avui fa bon dia i fa sol"}
-    {"id":1, "title", "Plou i fa vent", "contents": "M'he aixecat el dematí i fa un vent que toma els arbres"}
-    {"id":1, "title", "Fa fred", "contents": "Fan tan de fred que he hagut d'encendre la calefacció"}
+    {"id":1, "title": "Fa bon dia", "contents": "Avui fa bon dia i fa sol"}
+    {"id":1, "title": "Plou i fa vent", "contents": "M'he aixecat el dematí i fa un vent que toma els arbres"}
+    {"id":1, "title": "Fa fred", "contents": "Fan tan de fred que he hagut d'encendre la calefacció"}
     ]
 }
